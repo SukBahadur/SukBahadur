@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at University of Oregon.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Web Development, Software Engineering and Application Building.
 - 💼 &nbsp; Working as a Student Technician at Information Services at the University of Oregon.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies including but not limited to Web3, Blockchain, Interactive and Immersive Reality.
 - ✍️ &nbsp; Pursuing Film Photography and Visual Story telling as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -23,7 +23,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -56,4 +56,4 @@
 <a href="mailto:sukog@uoregon.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sukog@uoregon.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Suko Gurung](https://github.com/SukBahadur)
+
