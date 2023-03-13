@@ -1,4 +1,5 @@
 <h2> Hi there 👋 I'm Suko.</h2>
+[![An image of @sukbahadur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukbahadur)](https://holopin.io/@sukbahadur)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
