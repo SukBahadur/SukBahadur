@@ -40,13 +40,6 @@
 
 <br/>
 
-<a href="https://github.com/SukBahadur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SukBahadur&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukBahadur&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -55,6 +48,3 @@
 <a href="https://www.instagram.com/sukogurung/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sukogurung-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sukog@uoregon.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sukog@uoregon.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
-[![An image of @sukbahadur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sukbahadur)](https://holopin.io/@sukbahadur)
